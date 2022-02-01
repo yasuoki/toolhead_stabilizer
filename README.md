@@ -25,8 +25,9 @@ Also, since the load is concentrated on one side of the rail, there is a possibi
 <img src="img/assemble.jpg" width="80%">
 
 ## Print Samples
-- White: Not using "Tool head stabilizer"  
-- Gray: Use "Tool head stabilizer"
+- White: Not using "Tool head stabilizer".
+- Gray: Use "Tool head stabilizer".
+- Same GCode file.
 
 <img src="img/compare1.jpg" width="80%">
 <img src="img/compare2.jpg" width="80%">
