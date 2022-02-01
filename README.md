@@ -1,5 +1,6 @@
 # v0.1 Tool head stabilizer
-voron 0.1 tool head stabilizer
+voron 0.1 tool head stabilizer   
+<img src="img/photo.jpg" width="60%">
 
 ## What is this?
 The X-axis of v0.1 supports the tool head with only one linear rail, so the play of the linear rail causes the tool head to shake.  
